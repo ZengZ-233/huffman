@@ -20,6 +20,6 @@ Huffman编码通过创建一棵哈夫曼树来实现压缩。哈夫曼树是一�
 ## 如何使用
 
 ```bash
-git clone https://github.com/your-username/huffman-coding.git
-cd huffman-coding
+git clone https://github.com/ZengZ-233/huffman.git
+cd huffman
 python huffman.py
